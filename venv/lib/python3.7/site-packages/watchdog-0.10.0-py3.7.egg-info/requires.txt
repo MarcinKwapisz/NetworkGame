@@ -1,0 +1,9 @@
+pathtools>=0.1.1
+
+[:sys_platform == "darwin"]
+pyobjc-framework-Cocoa>=4.2.2
+pyobjc-framework-FSEvents>=4.2.2
+
+[watchmedo]
+PyYAML>=3.10
+argh>=0.24.1
